@@ -51,14 +51,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   <br>
 
-  <h2>📊 GitHub Analytics</h2>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xoemekk1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoemekk1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
-  </div>
-  
-  <br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoemekk1&theme=radical&hide_border=true&background=0D1117" alt="streak" />
 
