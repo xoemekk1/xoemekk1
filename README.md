@@ -40,15 +40,15 @@
 
   <br>
 
-  <h2>📊 My Coding Activity</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xoemekk1&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoemekk1&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
-  </div>
-
-  <br>
+  <h2>⚡ Coding Workspace</h2>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoemekk1&theme=nightowl&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation" />
+    
+    <br><br>
+    
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&isb=true" alt="Quote" />
+  </div>
 
   <br><br>
 
